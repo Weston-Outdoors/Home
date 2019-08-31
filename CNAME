@@ -1,1 +1,20 @@
-
+<DOCTYPE html>
+  <html>
+    <head>
+      <title>
+      Weston Outdoors
+      </title>
+    </head>
+    <body>
+      <h1 
+style="
+text-align
+:center;">
+        Weston Outdoors
+      </h1>
+      <p style="
+text-align:center;">
+  1000 Bonin Rd
+      </p>   
+   </body>
+  </html>
